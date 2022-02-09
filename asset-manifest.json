@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DivineDummiesMemoryGame/static/css/main.392ce89a.css",
+    "main.js": "/DivineDummiesMemoryGame/static/js/main.b8acf521.js",
+    "static/js/787.b5957360.chunk.js": "/DivineDummiesMemoryGame/static/js/787.b5957360.chunk.js",
+    "static/media/nico.png": "/DivineDummiesMemoryGame/static/media/nico.1366e94ae1f6501d5ca4.png",
+    "static/media/vince.png": "/DivineDummiesMemoryGame/static/media/vince.affe08a4804e4e3ca018.png",
+    "static/media/nik.png": "/DivineDummiesMemoryGame/static/media/nik.a209b8b405004bef1f4c.png",
+    "static/media/audrey.png": "/DivineDummiesMemoryGame/static/media/audrey.e9654d413c982c8c0a02.png",
+    "static/media/mel.png": "/DivineDummiesMemoryGame/static/media/mel.67656a68cae557c629ea.png",
+    "static/media/scott.png": "/DivineDummiesMemoryGame/static/media/scott.7ef3b4377199b8b0064f.png",
+    "static/media/brandon.png": "/DivineDummiesMemoryGame/static/media/brandon.54ae4bcfd316b118cab9.png",
+    "static/media/narki.png": "/DivineDummiesMemoryGame/static/media/narki.ee86ef2497aa96ad4273.png",
+    "index.html": "/DivineDummiesMemoryGame/index.html",
+    "main.392ce89a.css.map": "/DivineDummiesMemoryGame/static/css/main.392ce89a.css.map",
+    "main.b8acf521.js.map": "/DivineDummiesMemoryGame/static/js/main.b8acf521.js.map",
+    "787.b5957360.chunk.js.map": "/DivineDummiesMemoryGame/static/js/787.b5957360.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.392ce89a.css",
+    "static/js/main.b8acf521.js"
+  ]
+}
